@@ -39,7 +39,6 @@
 				//var_dump(IsPrime($_GET["number"]));
 				
 				
-				
 				$_left = 0;
 				$_right = 19999;
 				

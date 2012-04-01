@@ -57,6 +57,5 @@
 			
 			check_exist();
 		?>
-		
 	<body>
 </html>
